@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\ruban\documents\codestudio\16205_ruban\pacman\pacman\user.h(159): warning C4715: Pacman::Direction: значение возвращается не при всех путях выполнения
+  Pacman.vcxproj -> C:\Users\Ruban\Documents\CodeStudio\16205_ruban\Pacman\Debug\Pacman.exe
