@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="main">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/JetBrains/jaxen-master.zip!/jaxen-master/src/java/main" />
+      <root url="jar://D:/JetBrains/jaxen-master.zip!/jaxen-master/src/java/samples" />
+      <root url="jar://D:/JetBrains/jaxen-master.zip!/jaxen-master/src/java/test" />
+    </SOURCES>
+  </library>
+</component>
